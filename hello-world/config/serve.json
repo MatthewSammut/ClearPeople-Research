@@ -1,0 +1,29 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://matthewsammut.sharepoint.com/sites/mySite/SitePages/myPage.aspx",
+      "customActions": {
+        "76a2a1b2-a0b2-4eaf-88f2-c12e7db59442": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "helloWorld": {
+      "pageUrl": "https://matthewsammut.sharepoint.com/sites/mySite/SitePages/myPage.aspx",
+      "customActions": {
+        "76a2a1b2-a0b2-4eaf-88f2-c12e7db59442": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}

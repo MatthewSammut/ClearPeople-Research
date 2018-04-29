@@ -1,0 +1,15 @@
+{
+  "Name": "Custom Site Script",
+  "Description": "Custom Site Script Description",
+  "Content": {
+    "$schema": "schema.json",
+    "actions": [
+      {
+        "verb": "applyTheme",
+        "themeName": "Custom Company Theme"
+      }
+    ],
+    "bindata": {},
+    "version": 1
+  }
+}

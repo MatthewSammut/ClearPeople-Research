@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "o365-modern-webpart-recentpages",
+    "id": "a1e7c090-5a4c-4e10-bdbf-d2caf7164c0b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/o365-modern-webpart-recentpages.sppkg"
+  }
+}

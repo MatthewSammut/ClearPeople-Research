@@ -1,0 +1,38 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/SitePages/myPage.aspx",
+      "customActions": {
+        "b1efedb9-b371-4f5c-a90f-3742d1842cf3": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "TopMenuTermSet": "Top Global Navigation",
+            "BottomMenuTermSet": "Bottom Global Navigation",
+            "ShowBreadcrumb": "False"
+          }
+        }
+      }
+    },
+    "kfBruceBrandingHeader": {
+      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/SitePages/myPage.aspx",
+      "customActions": {
+        "b1efedb9-b371-4f5c-a90f-3742d1842cf3": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "TopMenuTermSet": "Top Global Navigation",
+            "BottomMenuTermSet": "Bottom Global Navigation",
+            "ShowBreadcrumb": "False"
+          }
+        }
+      }
+    }
+  },
+  "initialPage": "https://localhost:5432/workbench",
+  "api": {
+    "port": 5432,
+    "entryPath": "node_modules/@microsoft/sp-webpart-workbench/lib/api/"
+  }
+}

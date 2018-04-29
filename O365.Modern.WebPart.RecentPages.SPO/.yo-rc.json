@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "o-365-modern-web-part-recent-pages",
+    "libraryId": "a1e7c090-5a4c-4e10-bdbf-d2caf7164c0b",
+    "environment": "spo"
+  }
+}

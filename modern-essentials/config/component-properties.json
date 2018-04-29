@@ -1,0 +1,10 @@
+{
+  "TopMenuTermSet": "Top Global Navigation",
+  "BottomMenuTermSet": "Bottom Global Navigation",
+  "ShowBreadcrumb": true,
+  "RecentPages": {
+    "Show": true,
+    "AddToFarRight": true,
+    "Size": 10
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "b9993fe3-b87b-47c3-a083-e9d25ba2275f",
+  "alias": "TestMsGraphClientWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
+    "group": { "default": "Other" },
+    "title": { "default": "Test-MSGraphClient" },
+    "description": { "default": "Testing calls to Graph API from a webpart using MSGraphClient" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Test-MSGraphClient"
+    }
+  }]
+}

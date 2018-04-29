@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "tenantName": "matthewsammut",
+    "spTenantUrl": "https://matthewsammut.sharepoint.com/",
+    "cdnSiteRelativeUrl": "",
+    "cdnLibraryPath": "tenantassets/modern-essentials",
+    "catalogSite": "sites/apps",
+    "cdnBasePath": "https://matthewsammut.sharepoint.com/tenantassets/modern-essentials",
+    "username": "admin@matthewsammut.onmicrosoft.com",
+    "password": "Qweid!snqiw0"
+  },
+  "qa": {
+    "tenantName": "matthewsammut",
+    "spTenantUrl": "https://matthewsammut.sharepoint.com/",
+    "cdnSiteRelativeUrl": "",
+    "cdnLibraryPath": "tenantassets/modern-essentials",
+    "catalogSite": "sites/apps",
+    "cdnBasePath": "https://matthewsammut.sharepoint.com/tenantassets/modern-essentials",
+    "username": "admin@matthewsammut.onmicrosoft.com",
+    "password": "Qweid!snqiw0"
+  },
+  "prod": {
+    "tenantName": "matthewsammut",
+    "spTenantUrl": "https://matthewsammut.sharepoint.com/",
+    "cdnSiteRelativeUrl": "",
+    "cdnLibraryPath": "tenantassets/modern-essentials",
+    "catalogSite": "sites/apps",
+    "cdnBasePath": "https://matthewsammut.sharepoint.com/tenantassets/modern-essentials",
+    "username": "admin@matthewsammut.onmicrosoft.com",
+    "password": "Qweid!snqiw0"
+  }
+}

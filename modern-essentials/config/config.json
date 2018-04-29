@@ -1,0 +1,45 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "modern-essentials": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/TenantGlobalApplicationCustomizer/TenantGlobalApplicationCustomizer.js",
+          "manifest": "./src/extensions/TenantGlobalApplicationCustomizer/TenantGlobalApplicationCustomizer.manifest.json"
+        }
+      ]
+    },
+    "spfx-webpart-recentpages": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/recentPages/RecentPagesWebPart.js",
+          "manifest": "./src/webparts/recentPages/RecentPagesWebPart.manifest.json"
+        }
+      ]
+    },
+    "test-ms-graph-client-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/testMsGraphClient/TestMsGraphClientWebPart.js",
+          "manifest": "./src/webparts/testMsGraphClient/TestMsGraphClientWebPart.manifest.json"
+        }
+      ]
+    },
+    "graph-consumer-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/graphConsumer/GraphConsumerWebPart.js",
+          "manifest": "./src/webparts/graphConsumer/GraphConsumerWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "TenantGlobalApplicationCustomizerStrings": "lib/extensions/TenantGlobalApplicationCustomizer/loc/{locale}.js",
+    "RecentPagesWebPartStrings": "lib/webparts/recentPages/loc/{locale}.js",
+    "TestMsGraphClientWebPartStrings": "lib/webparts/testMsGraphClient/loc/{locale}.js",
+    "GraphConsumerWebPartStrings": "lib/webparts/graphConsumer/loc/{locale}.js"
+  }
+}

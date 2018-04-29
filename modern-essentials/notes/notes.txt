@@ -1,0 +1,59 @@
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"TenantGlobalNavBar","BottomMenuTermSet":"TenantGlobalFooterBar"}}}
+	
+?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"Global Navigation","BottomMenuTermSet":"Global Navigation"}}}
+?loadSPFX=true&debugManifestsFile=https://https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"Global Navigation","BottomMenuTermSet":"Global Navigation"}}}
+?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"e5625e23-5c5a-4007-a335-e6c2c3afa485":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"testMessage":"Hello as property!"}}}
+	
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"Global Navigation","BottomMenuTermSet":"Global Navigation"}}}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=http://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"GlobalNavigation","BottomMenuTermSet":"GlobalNavigation"}}}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/Shared%20Documents/Forms/AllItems.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"Global Navigation","BottomMenuTermSet":"Global Navigation"}}}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/Shared%20Documents/Forms/AllItems.aspx?loadSPFX=true&debugManifestsFile=http://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"TenantGlobalNavBar","BottomMenuTermSet":"TenantGlobalFooterBar"}}}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"TenantGlobalNavBar","BottomMenuTermSet":"TenantGlobalFooterBar"}}}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/Shared%20Documents/Forms/AllItems.aspx?loadSPFX=true&debugManifestsFile=http://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"TenantGlobalNavBar","BottomMenuTermSet":"TenantGlobalFooterBar"}}}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"76a2a1b2-a0b2-4eaf-88f2-c12e7db59442":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"testMessage":"Hello as property!"}}} 
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/Shared%20Documents/Forms/AllItems.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"76a2a1b2-a0b2-4eaf-88f2-c12e7db59442":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"testMessage":"Hello as property!"}}}
+
+
+these worked -> 
+
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=http://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"Top Global Navigation","BottomMenuTermSet":"Bottom Global Navigation"}}}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/Shared%20Documents/Forms/AllItems.aspx?loadSPFX=true&debugManifestsFile=http://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"Global Navigation","BottomMenuTermSet":"Global Navigation"}}}
+
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=http://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"Top Global Navigation","BottomMenuTermSet":"Bottom Global Navigation","ShowBreadcrumb":"True"}}}
+
+
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"TopMenuTermSet":"Top Global Navigation","BottomMenuTermSet":"Bottom Global Navigation","ShowBreadcrumb":"True"}}}
+
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/Shared%20Documents/Forms/AllItems.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js
+
+https://matthewsammut.sharepoint.com/sites/apps/AppCatalog/Forms/AllItems.aspx
+
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=http://localhost:4321/temp/manifests.js&customActions={%22b1efedb9-b371-4f5c-a90f-3742d1842cf3%22:{%22location%22:%22ClientSideExtension.ApplicationCustomizer%22,%22properties%22:{%22TopMenuTermSet%22:%22Top%20Global%20Navigation%22,%22BottomMenuTermSet%22:%22Bottom%20Global%20Navigation%22,%22ShowBreadcrumb%22:%22True%22}}}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/Shared%20Documents/Forms/AllItems.aspx?loadSPFX=true&debugManifestsFile=http://localhost:4321/temp/manifests.js&customActions={%22b1efedb9-b371-4f5c-a90f-3742d1842cf3%22:{%22location%22:%22ClientSideExtension.ApplicationCustomizer%22,%22properties%22:{%22TopMenuTermSet%22:%22Top%20Global%20Navigation%22,%22BottomMenuTermSet%22:%22Bottom%20Global%20Navigation%22,%22ShowBreadcrumb%22:%22True%22}}}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Test%20Page.aspx?loadSPFX=true&debugManifestsFile=http://localhost:4321/temp/manifests.js&customActions={%22b1efedb9-b371-4f5c-a90f-3742d1842cf3%22:{%22location%22:%22ClientSideExtension.ApplicationCustomizer%22,%22properties%22:{%22TopMenuTermSet%22:%22Top%20Global%20Navigation%22,%22BottomMenuTermSet%22:%22Bottom%20Global%20Navigation%22,%22ShowBreadcrumb%22:%22True%22}}}
+
+
+?loadSPFX=true&debugManifestsFile=http://localhost:4321/temp/manifests.js&customActions={%22b1efedb9-b371-4f5c-a90f-3742d1842cf3%22:{%22location%22:%22ClientSideExtension.ApplicationCustomizer%22,%22properties%22:{%22TopMenuTermSet%22:%22Top%20Global%20Navigation%22,%22BottomMenuTermSet%22:%22Bottom%20Global%20Navigation%22,%22ShowBreadcrumb%22:%22True%22}}}
+
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={%22b1efedb9-b371-4f5c-a90f-3742d1842cf3%22:{%22location%22:%22ClientSideExtension.ApplicationCustomizer%22,%22properties%22:{%22TopMenuTermSet%22:%22Top%20Global%20Navigation%22,%22BottomMenuTermSet%22:%22Bottom%20Global%20Navigation%22,%22ShowBreadcrumb%22:%22True%22,%22ShowRecentPages%22:%22True%22}}}
+
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer",}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/SitePages/Home.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties": {"TopMenuTermSet":"Top Global Navigation","BottomMenuTermSet":"Bottom Global Navigation","ShowBreadcrumb":true,"RecentPages":{"Show":true,"AddToFarRight":true}}}}
+
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/_layouts/15/viewlsts.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties": {"TopMenuTermSet":"Top Global Navigation","BottomMenuTermSet":"Bottom Global Navigation","ShowBreadcrumb":true,"RecentPages":{"Show":true,"AddToFarRight":true}}}}
+
+
+
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/Shared%20Documents/Forms/AllItems.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties": {"TopMenuTermSet":"Top Global Navigation","BottomMenuTermSet":"Bottom Global Navigation","ShowBreadcrumb":true,"RecentPages":{"Show":true,"AddToFarRight":true}}}}
+https://matthewsammut.sharepoint.com/sites/MyNewCommunicationSite/Lists/My%20New%20List/AllItems.aspx?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"b1efedb9-b371-4f5c-a90f-3742d1842cf3":{"location":"ClientSideExtension.ApplicationCustomizer","properties": {"TopMenuTermSet":"Top Global Navigation","BottomMenuTermSet":"Bottom Global Navigation","ShowBreadcrumb":true,"RecentPages":{"Show":true,"AddToFarRight":true}}}}
+
+
+"properties": { "TopMenuTermSet": "Top Global Navigation",  "BottomMenuTermSet": "Bottom Global Navigation","ShowBreadcrumb": "True","RecentPages": { "Show": true, "AddToFarRight": true }}
+
+where the gulp serve on http not https, and the manifest file is also http
+
+TODO:
+.Make sure we are showing the title not the label
+.Add recent in the end of the menu to show the 5 recent visited pages
+.Make it enable / disable configurable
+.Provide recent with 1 level 5 or 10 recent pages visited

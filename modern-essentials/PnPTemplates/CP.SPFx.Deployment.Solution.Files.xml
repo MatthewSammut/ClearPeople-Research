@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pnp:Provisioning xmlns:pnp="http://schemas.dev.office.com/PnP/2017/05/ProvisioningSchema">
+  <pnp:Preferences />
+  <pnp:Templates>
+    <pnp:ProvisioningTemplate ID="CP.SPFx.Deployment.Solution.Files">
+      <pnp:Files>
+        <pnp:Directory Src="..\dist" Folder="{site}/cdnassets/modern" IncludedExtensions="*.json,*.js,*.map,*.woff,*.png,*.jpg"  Overwrite="true" />
+        <pnp:Directory Src="..\temp\deploy" Folder="{site}/cdnassets/modern" IncludedExtensions="*.json,*.js,*.map,*.woff,*.png,*.jpg"  Overwrite="true" />
+      </pnp:Files>
+    </pnp:ProvisioningTemplate>
+  </pnp:Templates>
+</pnp:Provisioning>
